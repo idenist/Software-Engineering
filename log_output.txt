@@ -1,0 +1,14 @@
+[ajwoong] Fri May 9 01:41:57 2025 +0900 불필요한 파일 제거 및 제목 수정 df3b3c8
+[ajwoong] Fri May 9 01:39:17 2025 +0900 회원 기능 식당 추천 유즈케이스 추가 30f8a8a
+[idenist] Fri May 9 00:31:52 2025 +0900 관리자 부분 다소 수정 2fcef2a
+[idenist] Wed May 7 17:47:56 2025 +0900 관리자 명세 추가 e9de5f2
+[idenist] Wed May 7 17:34:06 2025 +0900 Merge conflict resolved for binary files dcdffe2
+[idenist] Wed May 7 17:33:17 2025 +0900 pull 5478a0c
+[Eojin Kim] Wed May 7 17:30:09 2025 +0900 Add files via upload 732fea7
+[Eojin Kim] Wed May 7 17:24:39 2025 +0900 Add files via upload df5ccae
+[idenist] Wed May 7 16:56:09 2025 +0900 pull 받아옴 6c07119
+[idenist] Wed May 7 16:52:32 2025 +0900 관리자 페이지 수정 1aec53e
+[ajwoong] Wed May 7 16:46:53 2025 +0900 과제1 - 안제웅 - 회원 기능 aaaba94
+[idenist] Mon May 5 15:07:44 2025 +0900 Merge branch 'main' of https://github.com/idenist/Software-Engineering 12c2ffa
+[idenist] Mon May 5 14:59:45 2025 +0900 first update 69cfd55
+[ajwoong] Sun May 4 21:57:05 2025 +0900 과제1 파일 업로드 1e35aae
